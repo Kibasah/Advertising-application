@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "857638021536",
+    "project_id": "vavavoom-58794",
+    "storage_bucket": "vavavoom-58794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857638021536:android:4c75695a2a867c4b739cc5",
+        "android_client_info": {
+          "package_name": "com.example.vava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857638021536-gfe55ho2f49k2krr65lbfiohulqcr80g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10DtK9MbT5hAWRf1bPLn7vo3P0XGRkWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857638021536-gfe55ho2f49k2krr65lbfiohulqcr80g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857638021536:android:1a62fff6ff447285739cc5",
+        "android_client_info": {
+          "package_name": "com.example.vavavu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857638021536-gfe55ho2f49k2krr65lbfiohulqcr80g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10DtK9MbT5hAWRf1bPLn7vo3P0XGRkWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857638021536-gfe55ho2f49k2krr65lbfiohulqcr80g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

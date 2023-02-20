@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">857638021536-gfe55ho2f49k2krr65lbfiohulqcr80g.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">857638021536</string>
+    <string name="google_api_key" translatable="false">AIzaSyA10DtK9MbT5hAWRf1bPLn7vo3P0XGRkWY</string>
+    <string name="google_app_id" translatable="false">1:857638021536:android:1a62fff6ff447285739cc5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA10DtK9MbT5hAWRf1bPLn7vo3P0XGRkWY</string>
+    <string name="google_storage_bucket" translatable="false">vavavoom-58794.appspot.com</string>
+    <string name="project_id" translatable="false">vavavoom-58794</string>
+</resources>
